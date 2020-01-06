@@ -6,7 +6,7 @@ import java.text.SimpleDateFormat;
 import entities.Comment;
 import entities.Post;
 
-public class Programa_StringBuilder {
+public class Program_StringBuilder {
 	public static void main(String[] args) throws ParseException {
 
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
